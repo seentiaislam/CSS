@@ -1,0 +1,23 @@
+body {
+    background-color: seashell;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+.blue-text {
+    color: paleturquoise;
+}
+h2 {
+    font-style:italic;
+    text-align: center;
+    background-color: indigo;
+    color: white;
+}
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightskyblue;
+    color: indigo;
+}
